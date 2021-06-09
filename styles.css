@@ -111,3 +111,11 @@ p {
     margin-left: 26px;
     margin-top: 33px;
 }
+
+.footer-flex {
+    flex-direction: column;
+}
+
+.sec2-class {
+    padding-left: 0px;
+}
